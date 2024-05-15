@@ -1,6 +1,6 @@
 package SolidWithDesignPattern;
 
-public class TestLibrary {
+public class TestProgram {
     public static void main(String[] args) {
 
         Student student = new Student("Karla", 2110252918);
